@@ -20,7 +20,7 @@ countries.
 
 ## Disclamer
 
-This package is not a replacement for a name reconcialiation service such as OpenCorporate's but rather a helper library to gain insights on un-reconciliable data. 
+This package is not a replacement for a name reconcialiation service such as OpenCorporate's but rather a helper library to gain insights on un-reconciliable data, like the Panama Papers or other offshore leaks.
 
 Milage may vary depending on typos and formating. You still have to clean your data... sorry. 
 
